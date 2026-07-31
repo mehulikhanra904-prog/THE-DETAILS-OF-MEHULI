@@ -5,7 +5,7 @@ A personal  website built to showcase my projects, skills, and experience as a s
 
 
 
-LIVE WEBSITE LINK:https://github.com/mehulikhanra904-prog/THE-DETAILS-OF-MEHULI
+LIVE WEBSITE LINK: [https://mehulikhanra904-prog.github.io/portfolio/]
 
 ---
 
