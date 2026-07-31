@@ -2,7 +2,7 @@
 # 🚀 ABOUT MEHULI , THE SOFTWARE DEVELOPER 
 
 A personal  website built to showcase my projects, skills, and experience as a software developer.
-
+LIVE WEBSITE LINK:https://github.com/mehulikhanra904-prog/THE-DETAILS-OF-MEHULI
 
 ---
 
