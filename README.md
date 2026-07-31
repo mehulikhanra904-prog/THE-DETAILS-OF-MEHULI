@@ -1,44 +1,85 @@
-# THE-DETAILS-OF-MEHULI
-# 🚀 ABOUT MEHULI , THE SOFTWARE DEVELOPER 
-AN ASPIRING FULL STACK DEVELOPER + AI ENGINEER 
+# Hi, I'm Mehuli Khanra 👋
 
-A personal  website built to showcase my projects, skills, and experience as a software developer.
+## About Me
 
-
-
-LIVE WEBSITE LINK:  https://mehulikhanra904-prog.github.io/THE-DETAILS-OF-MEHULI/
+I am a B.Tech Computer Science & Engineering (CSE) student passionate about Web Development, Data Structures & Algorithms, and AI Integration. I enjoy building real-world projects, solving coding problems, and continuously learning modern technologies to become a skilled software developer.
 
 ---
 
-## ✨ Features
+## 🎓 Education
 
-* **Responsive Design:** Fully optimized for mobile, tablet, and desktop screens.
-* **Project Showcase:** Highlights key projects with live demos and repository links.
-* **Skills Overview:** Displays technologies, frameworks, and tools I work with.
-* **Contact Form / Links:** Easy ways to connect via email, LinkedIn, and social platforms.
+### Narula Institute of Technology
+**Bachelor of Technology (B.Tech) – Computer Science & Engineering (CSE)**
+- Duration: 2025 – Present
+- Expected Graduation: March 2029
+- Current Year: 2nd Year
+- Section: 2B
 
----
+### Balichak Bhajahari Institution
+**Higher Secondary (Class XII)**
+- Board: West Bengal Council of Higher Secondary Education (WBCHSE)
+- Year of Passing: 2024
+- marks:90%
 
-## 🛠️ Tech Stack
-
-* **Frontend:** HTML5, CSS3, JavaScript / React (or your preferred framework)
-* **Styling:** Tailwind CSS / Bootstrap / Custom CSS
-* **Deployment:** GitHub Pages / Vercel / Netlify
-* ## 🎓 Education
-
-| Class / Level | Institution | Duration | Marks / Score |   
-| :--- | :--- | :--- | :--- |
-| **Class V – X** | Balichak Girls High School | 2016 – 2022 | **94%** |
-| **Class XI – XII** | Balichak Bhajahari Institution | 2022 – 2024 | 90% |
-class:2nd year ,
-level:BTECH IN CSE CORE 
-Institution:NARULA INSTITUTE OF TECHNOLOGY 
-DURATION:2025-present 
-
-
+### Balichak Girls' High School
+**Secondary (Class X)**
+- Board: West Bengal Board of Secondary Education (WBBSE)
+- Year of Passing: 2022
+- marks:94.6%
 
 ---
 
+## 💻 Technical Skills
+
+### Programming Languages
+- C
+- C++
+- JavaScript
+- python
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+-react.js 
+
+### Tools
+- Git
+- GitHub
+- Visual Studio Code
+- AI tools like chatgpt,google gemini,claude,curser
+
+---
+
+## 🚀 Projects
+
+### Personal Portfolio Website
+Designed and developed a responsive personal portfolio website to showcase my education, technical skills, projects, and contact information using HTML, CSS, and JavaScript.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+---
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms (DSA)
+- Responsive Web Design
+- Git & GitHub
+- Backened development & API integration 
+- AI Integration
+
+---
+
+## 🎯 Career Objective
+
+To become a proficient Full Stack Software Developer by building impactful projects, strengthening problem-solving skills, and continuously learning modern technologies.
+
+---
+
+## 📫 Connect With Me
+
+- **GitHub:** https://github.com/mehulikhanra904-prog
+- **LinkedIn:** www.linkedin.com/in/mehuli-khanra-736964390
 ### 📌 Additional Information
 * **Drop Year (2024 – 2025):** Dedicated 1-year drop for competitive exam preparation for **NEET (UG)**.
 * ## 📁 Repository Structure
@@ -51,6 +92,8 @@ portfolio/
 ├── script.js        # DOM interaction, theme toggle & form logic
 ├── profile.jpg       # Profile image asset
 └── README.md         # Project documentation
+⭐ Thank you for visiting my profile! I'm always eager to learn, build, and grow as a developer.
+---
 *
 
 ---
