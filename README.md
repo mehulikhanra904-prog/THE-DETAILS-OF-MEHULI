@@ -30,7 +30,7 @@ LIVE WEBSITE LINK:  https://mehulikhanra904-prog.github.io/THE-DETAILS-OF-MEHULI
 | :--- | :--- | :--- | :--- |
 | **Class V – X** | Balichak Girls High School | 2016 – 2022 | **94%** |
 | **Class XI – XII** | Balichak Bhajahari Institution | 2022 – 2024 | 90% |
-B.TECH  IN CSE |2ND YEAR | NARULA INSTITUTE OF TECHNOLOGY ,AGARPARA,KOLKATA,2025-PRESENT|
+2ND YEAR|B.TECH IN CSE CORE|NARULA INSTITUTE OF TECHNOLOGY,AGARPARA,KOLKATA,2025-present|
 
 ---
 
