@@ -1,9 +1,8 @@
 # THE-DETAILS-OF-MEHULI
-# 🚀 Developer Portfolio
+# 🚀 ABOUT MEHULI , THE SOFTWARE DEVELOPER 
 
-A personal portfolio website built to showcase my projects, skills, and experience as a software developer.
+A personal  website built to showcase my projects, skills, and experience as a software developer.
 
-![Portfolio Preview](https://via.placeholder.com/800x400.png?text=Portfolio+Preview+Image) <!-- Optional: Replace with a screenshot link -->
 
 ---
 
