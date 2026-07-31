@@ -4,6 +4,10 @@
 
 I am a B.Tech Computer Science & Engineering (CSE) student passionate about Web Development, Data Structures & Algorithms, and AI Integration. I enjoy building real-world projects, solving coding problems, and continuously learning modern technologies to become a skilled software developer.
 
+
+
+live portfolio link:https://mehulikhanra904-prog.github.io/THE-DETAILS-OF-MEHULI/
+
 ---
 
 ## 🎓 Education
