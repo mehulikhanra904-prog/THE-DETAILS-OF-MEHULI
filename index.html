@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mehuli Khanra | Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+  <!-- Google Fonts for clean typography -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- Navigation Bar -->
+  <header class="navbar">
+    <div class="container nav-container">
+      <a href="#home" class="logo">Mehuli<span>.dev</span></a>
+      <nav class="nav-links">
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+      </nav>
+      <button id="theme-toggle" class="btn-toggle" aria-label="Toggle Theme">🌙</button>
+    </div>
+  </header>
+
+  <!-- Section 1: Hero Section -->
+  <section id="home" class="section hero-section">
+    <div class="container hero-container">
+      <div class="hero-image-wrapper">
+        <img src="profile.jpg" alt="Mehuli Khanra Profile Photo" class="hero-img">
+      </div>
+      <div class="hero-content">
+        <span class="badge">Welcome to my portfolio</span>
+        <h1>Hi, I'm <span class="highlight">Mehuli Khanra</span></h1>
+        <p class="subtitle">2nd Year B.Tech CSE Student at Narula Institute of Technology | Frontend Developer & DSA Enthusiast</p>
+        <div class="hero-btns">
+          <a href="#projects" class="btn btn-primary">View Projects</a>
+          <a href="#contact" class="btn btn-secondary">Get in Touch</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 2: About & Skills Section -->
+  <section id="about" class="section alt-bg">
+    <div class="container">
+      <div class="section-title">
+        <h2>About Me</h2>
+        <p>My academic background and core skill set</p>
+      </div>
+      <div class="about-grid">
+        <div class="about-card">
+          <h3>🎓 Education</h3>
+          <p><strong>B.Tech in Computer Science & Engineering</strong></p>
+          <p class="text-muted">Narula Institute of Technology (2nd Year)</p>
+          <p>Focusing on Data Structures, Algorithms, Object-Oriented Programming, and Web Development.</p>
+        </div>
+        <div class="about-card">
+          <h3>💻 Technical Skills</h3>
+          <div class="skills-tags">
+            <span class="tag">HTML5</span>
+            <span class="tag">CSS3</span>
+            <span class="tag">JavaScript</span>
+            <span class="tag">C / C++</span>
+            <span class="tag">Data Structures</span>
+            <span class="tag">Git & GitHub</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 3: Projects Section -->
+  <section id="projects" class="section">
+    <div class="container">
+      <div class="section-title">
+        <h2>My Projects</h2>
+        <p>Some of the works I have built</p>
+      </div>
+      <div class="projects-grid">
+        
+        <!-- Project Card 1 -->
+        <div class="project-card">
+          <div class="project-info">
+            <h3>Developer Portfolio Website</h3>
+            <p>A fully responsive personal portfolio website with dark/light mode toggle and structured section design.</p>
+            <div class="project-tech">
+              <span>HTML5</span>
+              <span>CSS3</span>
+              <span>JavaScript</span>
+            </div>
+            <div class="project-links">
+              <a href="https://github.com/mehulikhanra904-prog/portfolio" target="_blank" class="link-btn">GitHub Repo</a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Project Card 2 -->
+        <div class="project-card">
+          <div class="project-info">
+            <h3>More Projects Coming Soon</h3>
+            <p>Currently building interactive JavaScript applications and DSA problem-solving implementations.</p>
+            <div class="project-tech">
+              <span>Logic Development</span>
+              <span>Algorithms</span>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Section 4: Contact Section -->
+  <section id="contact" class="section alt-bg">
+    <div class="container">
+      <div class="section-title">
+        <h2>Get In Touch</h2>
+        <p>Feel free to reach out for connections or opportunities!</p>
+      </div>
+      <div class="contact-wrapper">
+        <form id="contact-form" class="contact-form">
+          <div class="form-group">
+            <input type="text" id="name" placeholder="Your Name" required>
+          </div>
+          <div class="form-group">
+            <input type="email" id="email" placeholder="Your Email" required>
+          </div>
+          <div class="form-group">
+            <textarea id="message" rows="5" placeholder="Your Message" required></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary full-width">Send Message</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container footer-container">
+      <p>© 2026 Mehuli Khanra. All rights reserved.</p>
+      <div class="social-links">
+        <a href="https://github.com/mehulikhanra904-prog" target="_blank">GitHub</a>
+        <a href="https://linkedin.com" target="_blank">LinkedIn</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
