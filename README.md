@@ -25,7 +25,7 @@ LIVE WEBSITE LINK:https://github.com/mehulikhanra904-prog/THE-DETAILS-OF-MEHULI
 | Class / Level | Institution | Duration | Marks / Score |
 | :--- | :--- | :--- | :--- |
 | **Class V – X** | Balichak Girls High School | 2016 – 2022 | **94%** |
-| **Class XI – XII** | Balichak Bhajahari Institution | 2022 – 2024 | — |
+| **Class XI – XII** | Balichak Bhajahari Institution | 2022 – 2024 | 90% |
 
 ---
 
