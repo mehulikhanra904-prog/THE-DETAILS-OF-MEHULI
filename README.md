@@ -1,5 +1,6 @@
 # THE-DETAILS-OF-MEHULI
 # 🚀 ABOUT MEHULI , THE SOFTWARE DEVELOPER 
+AN ASPIRING FULL STACK DEVELOPER + AI ENGINEER 
 
 A personal  website built to showcase my projects, skills, and experience as a software developer.
 
